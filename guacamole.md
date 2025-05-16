@@ -5,4 +5,6 @@ x# Guacamole
 * Salt
 
 ## Instructions
-* Cut up some avocados (Taden 2)
+<<<<<<< HEAD
+* Cut up some avocados
+
