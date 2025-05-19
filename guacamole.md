@@ -1,10 +1,11 @@
-x# Guacamole
+# Guacamole
 ## Ingredients
 * Avocado
 * Lime
 * Salt
 * Pepper
 * Love
+* garlic
 
 ## Instructions
 <<<<<<< HEAD
