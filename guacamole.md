@@ -5,6 +5,7 @@
 * Salt
 * Pepper
 * Love
+* garlic
 
 ## Instructions
 <<<<<<< HEAD
