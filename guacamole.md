@@ -1,4 +1,4 @@
-x# Guacamole
+# Guacamole
 ## Ingredients
 * Avocado
 * Lime
@@ -10,4 +10,5 @@ x# Guacamole
 <<<<<<< HEAD
 * Cut up some avocados, mash
 * Sprinkle salt like salt bae
+* enjoy like a boss
 
