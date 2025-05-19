@@ -3,6 +3,8 @@ x# Guacamole
 * Avocado
 * Lime
 * Salt
+* Pepper
+* Love
 
 ## Instructions
 <<<<<<< HEAD
