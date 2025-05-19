@@ -6,5 +6,6 @@ x# Guacamole
 
 ## Instructions
 <<<<<<< HEAD
-* Cut up some avocados
+* Cut up some avocados, mash
+* Sprinkle salt like salt bae
 
